@@ -17,8 +17,11 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![Nuxt.js](https://img.shields.io/badge/Nuxt.js-%2300DC82.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=white)](https://nuxtjs.org/)
+[![Pinia Store](https://img.shields.io/badge/Pinia%20Store-%231E2A4B.svg?style=for-the-badge&logo=pinia&logoColor=white)](https://pinia.vuejs.org/)
 [![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-%23764abc.svg?style=for-the-badge&logo=redux&logoColor=white)](https://redux-toolkit.js.org/)
+
 
 ## UI Libraries
 
